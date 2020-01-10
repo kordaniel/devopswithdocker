@@ -1,0 +1,8 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                      PORTS               NAMES
+cd372e961f1a        mongo               "docker-entrypoint.s…"   2 minutes ago       Up 2 minutes                27017/tcp           jolly_agnesi
+52ee32a27415        mongo               "docker-entrypoint.s…"   2 minutes ago       Exited (0) 2 minutes ago                        happy_mendel
+76dc21fc1205        mariadb:latest      "docker-entrypoint.s…"   8 minutes ago       Exited (0) 3 minutes ago                        objective_chatelet
+4f026f71574d        redis               "docker-entrypoint.s…"   11 minutes ago      Exited (0) 56 seconds ago                       exciting_ishizaka
+232d6c408c08        redis               "docker-entrypoint.s…"   13 minutes ago      Exited (0) 12 minutes ago                       testing-redis
+970a271dcc86        alpine              "/bin/sh"                15 minutes ago      Exited (0) 15 minutes ago                       objective_babbage
+e3dbf7bfbbba        nginx               "nginx -g 'daemon of…"   15 minutes ago      Exited (0) 59 seconds ago                       inspiring_wing
